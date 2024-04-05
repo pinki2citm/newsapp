@@ -1,0 +1,8 @@
+  <Route exact path="/general" element={<News pageSize={5} country="us" category="General"/>}/>
+  <Route exact path="/business" element={<News pageSize={5} country="us" category="Business"/>}/>
+  <Route exact path="/entertainment" element={<News pageSize={5} country="us" category="entertainment"/>}/>
+  <Route exact path="/health" element={<News pageSize={5} country="us" category="health"/>}/>
+  <Route exact path="/science" element={<News pageSize={5} country="us" category="science"/>}/>
+  <Route exact path="/technology" element={<News pageSize={5} country="us" category="technology"/>}/>
+
+ apikey: 'ffd03455859146f581d1a1fbbcb694d1' of pinki kumari
